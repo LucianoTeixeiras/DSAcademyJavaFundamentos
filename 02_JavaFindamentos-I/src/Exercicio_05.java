@@ -1,6 +1,6 @@
 package Capitulo2;
 
-public class Exercicio5 {
+public class Exercicio_05 {
     public static void main(String[] args) {
 
         int a = 0;

@@ -1,6 +1,6 @@
 package Capitulo2;
 
-public class Exercicio4 {
+public class Exercicio_04 {
 
     //Precedencia de operadores
 

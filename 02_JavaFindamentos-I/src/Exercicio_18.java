@@ -1,6 +1,6 @@
 package Capitulo2;
 
-public class Exercicio18 {
+public class Exercicio_18 {
     public static void main(String[] args) {
 
         /*

@@ -2,7 +2,7 @@ package Capitulo2;
 
 import java.util.Scanner;
 
-public class Exercicio8 {
+public class Exercicio_08 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.println("Qual a sua idade? ");

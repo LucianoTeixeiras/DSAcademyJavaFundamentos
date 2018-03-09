@@ -1,6 +1,6 @@
 package Capitulo2;
 
-public class Exercicio10 {
+public class Exercicio_10 {
     public static void main(String[] args) {
         int idade = 70;
         float preco = 200;

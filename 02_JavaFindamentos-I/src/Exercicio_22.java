@@ -3,7 +3,7 @@ package Capitulo2;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Exercicio22 {
+public class Exercicio_22 {
     public static void main(String[] args) {
         //Data no Java e representada como numero (long)
         //que indica quantos milissegundos se passaram desde 01/01/1970

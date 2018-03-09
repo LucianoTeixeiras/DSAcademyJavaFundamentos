@@ -2,7 +2,7 @@ package Capitulo2;
 
 import java.util.Scanner;
 
-public class Exercicio11 {
+public class Exercicio_11 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.println("Tabuada de qual numero: ");

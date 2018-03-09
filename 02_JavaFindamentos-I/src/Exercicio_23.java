@@ -3,7 +3,7 @@ package Capitulo2;
 import java.util.Calendar;
 import java.util.Date;
 
-public class Exercicio23 {
+public class Exercicio_23 {
     public static void main(String[] args) {
         //Obtendo um instancia de um calendario
 

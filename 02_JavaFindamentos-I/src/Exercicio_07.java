@@ -2,7 +2,7 @@ package Capitulo2;
 
 import java.util.Scanner;
 
-public class Exercicio7 {
+public class Exercicio_07 {
     public static void main(String[] args) {
         //Fazer import da classe java.util.Scanner
 

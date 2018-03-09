@@ -1,6 +1,6 @@
 package Capitulo2;
 
-public class Exercicio17 {
+public class Exercicio_17 {
     public static void main(String[] args) {
 
         String mes = "Maio";

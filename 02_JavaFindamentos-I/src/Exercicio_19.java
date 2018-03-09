@@ -2,7 +2,7 @@ package Capitulo2;
 
 import java.lang.management.OperatingSystemMXBean;
 
-public class Exercicio19 {
+public class Exercicio_19 {
 
     public static void main(String[] args) {
         // 1 para soma

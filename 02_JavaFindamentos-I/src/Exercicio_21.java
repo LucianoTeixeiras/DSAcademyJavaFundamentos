@@ -1,6 +1,6 @@
 package Capitulo2;
 
-public class Exercicio21 {
+public class Exercicio_21 {
     public static void main(String[] args) {
 
         //Obtendo um caracer de um String em ma posicao especifica

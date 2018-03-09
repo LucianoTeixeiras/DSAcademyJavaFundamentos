@@ -2,7 +2,7 @@ package Capitulo2;
 
 import java.util.Date;
 
-public class Exercicio20 {
+public class Exercicio_20 {
     public static void main(String[] args) {
         String msg;
         String curso = "Java Fundamentos";
